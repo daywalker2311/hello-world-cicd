@@ -1,15 +1,15 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hi!!!!! New user Register for DevOps Learning, CICD</h1>
+    <h1>Hey there another change!!!!! New user Register for DevOps Learning, CICD</h1>
     
     <p>I am telling you NICELY(for now) to fill in this form to create an account.OR NOT idc</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter Your GFs name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter your GFs mobile number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
